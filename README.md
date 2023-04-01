@@ -1,0 +1,2 @@
+# myways
+coding challange
